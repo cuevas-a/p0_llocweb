@@ -1,0 +1,11 @@
+ @font-face {
+    font-family: 'Times';
+    src: url('../fonts/times.ttf') format ('truetype'), 
+    src: url('../fonts/timesbd.ttf') format ('truetype'),
+        url('../fonts/timesbi.ttf') format ('truetype')
+        url('../fonts/timesi.ttf') format ('truetype')
+    
+        font-weight: 300;
+        font-style: normal;
+        font-display: swap;
+     }
